@@ -4,3 +4,5 @@ This work is done using Artificial Intelligence in Unity course. It has differen
 
 1. Player Movement
 2. Waypoints
+3. NavMeshes
+4. Crowd Populator
